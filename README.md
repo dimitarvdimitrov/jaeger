@@ -17,7 +17,7 @@ and donated to [Cloud Native Computing Foundation](https://cncf.io).
 It can be used for monitoring microservices-based distributed systems:
 
   * Distributed context propagation
-  * Distributed transaction monitoring
+  * Distributed transaction monitoring hello
   * Root cause analysis
   * Service dependency analysis
   * Performance / latency optimization
